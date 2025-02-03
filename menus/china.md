@@ -14,3 +14,11 @@ A la comida China se le da un sentido del gusto con las artes culinarias basánd
 - Baijiu
 - Té rojo frío 
 - Vino de arroz
+
+## Consejos
+- No se debe comer con palillos rotos
+- No se debe dejar los palillos clavados en el arroz
+- No se debe chupar los palillos
+- No se debe jugar con los palillos
+- No se debe pinchar la comida con los palillos
+- No se debe golpear los palillos
