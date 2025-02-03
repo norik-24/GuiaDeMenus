@@ -14,3 +14,6 @@ Disfruta de la mejor comida mexicana en nuestra variedad de platos, desde tacos,
 - Margarita
 - Horchata
 
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con tortillas recién hechas para
