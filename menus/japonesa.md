@@ -9,3 +9,8 @@ Disfruta de la mejor comida japonesa en nuestra variedad de platos, desde sushi,
 - Tempura
 - Soba
 
+## Bebidas
+- Sake
+- Cerveza Japonesa
+- Té Verde
+
