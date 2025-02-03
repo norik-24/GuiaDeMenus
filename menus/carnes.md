@@ -15,3 +15,9 @@ La cocina de carnes es una de las más populares y apreciadas en todo el mundo. 
 - Vino blanco
 - Cerveza
 - Whisky
+
+## Consejos 
+- La temperatura interna de la carne debe alcanzar los 65-70°C para que esté bien cocida. 
+- Usa un termómetro para medir la temperatura interna de la carne y el tiempo necesario para alcanzar el punto de cocción deseado. 
+- Deja reposar la carne cubierta por unos minutos para que quede tierna y jugosa. 
+- Agrega especias y condimentos a la carne. 
