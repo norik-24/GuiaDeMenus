@@ -11,3 +11,10 @@ La cocina mediterránea es una de las más saludables y sabrosas del mundo. Se c
 - **Tabbouleh:** Una ensalada libanesa a base de perejil, menta, bulgur, tomate y limón.
 - **Ratatouille:** Un guiso de verduras típico de la Provenza francesa.
 
+## Bebidas
+- Vino tinto
+- Vino blanco
+- Sangría
+- Limoncello
+
+
