@@ -15,3 +15,10 @@ La cocina francesa es una de las más prestigiosas del mundo. La gastronomía fr
 - Vino blanco
 - Champagne
 
+## Consejos
+- No se debe comer con las manos
+- No se debe hablar con la boca llena
+- No se debe poner los codos en la mesa
+- No se debe sorber la sopa
+- No se debe cortar la ensalada
+- No se debe beber antes de brindar
