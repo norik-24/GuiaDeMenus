@@ -9,3 +9,9 @@ La cocina de carnes es una de las más populares y apreciadas en todo el mundo. 
 - **Costillas de cerdo:** Costillas de cerdo asadas a la parrilla con salsa barbacoa.
 - **Pollo al horno:** Un pollo entero asado al horno con limón, ajo y hierbas.
 - **Solomillo:** Un corte de carne de vacuno muy tierno
+
+## Bebidas
+- Vino tinto
+- Vino blanco
+- Cerveza
+- Whisky
