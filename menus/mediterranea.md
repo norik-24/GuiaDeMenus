@@ -18,3 +18,7 @@ La cocina mediterránea es una de las más saludables y sabrosas del mundo. Se c
 - Limoncello
 
 
+## Consejos
+- No se debe mezclar el vino tinto con el pescado
+- No se debe beber vino antes de brindar
+- No se debe servir el queso con pan
