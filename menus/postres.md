@@ -18,3 +18,7 @@ Los postres son el broche de oro de cualquier comida. Desde los más sencillos y
 - Licor
 - Vino dulce
 
+## Consejos
+- Utiliza ingredientes frescos y de calidad para obtener un mejor resultado.
+- Sigue las recetas al pie de la letra para que los postres queden perfectos.
+- No te olvides de decorar los postres con frutas, frutos secos o chocolate para dar
