@@ -15,3 +15,9 @@ La cocina vegetariana es una forma de alimentación que se basa en el consumo de
 - Zumo de frutas naturales
 - Batidos de frutas
 - Infusiones
+
+## Consejos
+- Incluir una fuente de proteína en cada comida. 
+- Consumir alimentos fortificados, como cereales, panes, leche de soya o de almendra. 
+- Reducir el consumo de alimentos ricos en grasa, azúcar y sal. 
+- Utilizar algas para dar sabor a mar a los platos. 
