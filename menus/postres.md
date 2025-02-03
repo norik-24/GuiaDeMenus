@@ -11,3 +11,10 @@ Los postres son el broche de oro de cualquier comida. Desde los más sencillos y
 - **Tiramisú:** Un postre italiano a base de café, bizcochos, mascarpone, huevos y cacao en polvo.
 - **Helado:** Un postre frío y refrescante, de diversos sabores y texturas.
 
+## Bebidas
+- Café
+- Té
+- Infusiones
+- Licor
+- Vino dulce
+
