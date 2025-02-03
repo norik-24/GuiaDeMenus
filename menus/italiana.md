@@ -9,4 +9,11 @@ Disfruta de la mejor comida italiana en nuestra variedad de platos, desde pastas
 - Lasagna Clásica
 - Risotto a la Parmesana
 
+## Bebidas
+- Vino Tinto
+- Vino Blanco
+- Limonada
+
+
+
 
