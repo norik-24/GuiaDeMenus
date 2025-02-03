@@ -10,3 +10,8 @@ La cocina vegetariana es una forma de alimentación que se basa en el consumo de
 - **Berenjenas rellenas:** Berenjenas asadas rellenas de arroz, verduras y queso, gratinadas al horno.
 - **Tacos de champiñones:** Tacos mexicanos rellenos de champiñones salteados con cebolla, pimiento y especias.
 
+## Bebidas
+- Agua
+- Zumo de frutas naturales
+- Batidos de frutas
+- Infusiones
