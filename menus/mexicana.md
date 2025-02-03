@@ -9,3 +9,8 @@ Disfruta de la mejor comida mexicana en nuestra variedad de platos, desde tacos,
 - Chiles Rellenos
 - Mole Poblano
 
+## Bebidas
+- Tequila
+- Margarita
+- Horchata
+
