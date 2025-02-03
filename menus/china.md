@@ -9,3 +9,8 @@ A la comida China se le da un sentido del gusto con las artes culinarias basánd
 - **Wontons:** Una sopa de empanadillas redondas rellenas de carne picada 
 - **Rollitos de primavera:** Un plato popular de la cocina china 
 - **Chow mein:** Un plato de fideos chinos con pollo, salsa de soja, y otros ingredientes 
+
+## Bebidas 
+- Baijiu
+- Té rojo frío 
+- Vino de arroz
