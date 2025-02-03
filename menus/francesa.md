@@ -10,3 +10,8 @@ La cocina francesa es una de las más prestigiosas del mundo. La gastronomía fr
 - **Coq au vin:** Un guiso de pollo cocinado con vino tinto
 - **Bistec con fritas:** Un plato de bistec con patatas fritas
 
+## Bebidas
+- Vino tinto
+- Vino blanco
+- Champagne
+
