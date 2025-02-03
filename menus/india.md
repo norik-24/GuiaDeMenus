@@ -9,3 +9,9 @@ La comida india se caracteriza por el uso de una gran variedad de especias y hie
 - Pan naan
 
 
+## Bebidas
+- Lassi
+- Chai
+- Agua de coco
+
+
