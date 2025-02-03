@@ -14,4 +14,5 @@ La comida india se caracteriza por el uso de una gran variedad de especias y hie
 - Chai
 - Agua de coco
 
-
+## Consejos
+La comida india es muy sabrosa, pero también puede ser muy picante. Si no te gusta el picante, asegúrate de preguntar al camarero sobre la misma.
